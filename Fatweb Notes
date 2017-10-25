@@ -1,0 +1,560 @@
+http://prntscr.com/g70nu1
+
+http://prntscr.com/g70o2f
+<a rel="lightbox" href="/wp-content/uploads/2016/06/Newsletter-August-2017-A4.jpg"><img src="/wp-content/uploads/2016/06/Newsletter-August-2017-A4.jpg" alt="" /></a>
+<div style="display:none">
+</div>
+
+---------------------------
+
+
+[image class="gallery01" src="/wp-content/uploads/2017/04/signage01aa.jpg" link="true"]
+
+<div class="visually-hidden">
+<div id="galleryid">
+
+[image class="gallery01" src="/wp-content/uploads/2017/04/signage01.jpg" link="true"]
+[image class="gallery01" src="/wp-content/uploads/2017/04/signage02.jpg" link="true"]
+[image class="gallery01" src="/wp-content/uploads/2017/04/signage03.jpg" link="true"]
+
+[lightbox selector=".gallery01" thumbnails="true"]
+
+</div>
+</div>
+
+
+
+-----------------------------
+GOOGLE MAPS - CONTACT US
+http://www.latlong.net/
+http://prntscr.com/g83qip
+
+AIzaSyC_kKerOAyqCLPte_uFn_yUMBr7P7ByXsA
+
+--------------------- 
+200x900
+tower ad example
+http://papakurarsa.kiwi.fatweb.co.nz/wp-content/uploads/2017/08/martin-williams-1.jpg
+https://www.mwfd.co.nz/
+
+-----------------------------------
+slider with images linked to URL
+[slider animation="slide" slide_time="5000" slide_speed="600" slideshow="true" random="false" control_nav="false" prev_next_nav="false"] [slide]<a href="murraysharma.co.nz" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="/wp-content/uploads/2017/08/Murray-Sharma-Associates.jpg" alt="MURRAY SHARMA ASSOCIATES LIMITED" width="200" height="900" /></a>[/slide] [slide]<a href="https://www.barfoot.co.nz/Branches/mt-albert/Our-Team" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="/wp-content/uploads/2017/08/Mt-Albert-Barfoot-Thompson.jpg" alt="Mt-Albert-Barfoot-Thompson" width="200" height="900" /></a>[/slide][/slider]
+
+
+
+automatic
+[slider animation="slide" slide_time="1500" slide_speed="600" slideshow="true" random="false" control_nav="false" prev_next_nav="false"] [slide]<img src="http://yourdomain.com/image.jpg" alt="Example">[/slide] [slide]<img src="http://yourdomain.com/image.jpg" alt="Example">[/slide] [slide]<img src="http://yourdomain.com/image.jpg" alt="Example">[/slide] [/slider]
+-------------------------------------
+SCROLLING IMAGES NOT WORKING
+HOW TO FIX:
+http://hbcrsa.org.nz/ na fix na nako ni ang scrolling logo, make sure nga sa kiwi logo plugin, ang tanan naa didto nga sponsor naa clay logo kay kung wala dili mo scroll
+
+-------------------------------
+sites to get images
+http://kaikohersa.co.nz/
+http://www.manurewarsa.co.nz/
+http://northernwairoarsa.co.nz/
+http://turangirsa.co.nz/
+
+http://newplymouthrsa.co.nz/
+http://rsaqueenstown.co.nz/
+http://www.morrinsvillersa.co.nz/
+http://www.birkenheadrsa.com/
+http://onehungarsa.co.nz/
+http://clubshastings.co.nz/
+http://www.titirangirsa.co.nz/
+http://glenedenrsa.co.nz/
+http://baysclub.co.nz/
+http://rsaavondale.lima.fatweb.co.nz/
+http://www.newlynnrsa.org.nz/key-partners/
+http://www.ashhurstrsa.co.nz/key-partners/
+http://hbcrsa.org.nz/key-partners/
+http://www.ashburtonrsa.co.nz/
+
+-------------------------------
+some code
+.container {
+  position: relative;
+  width: 50%;
+  height:50px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+	height:252px;
+  width: 220px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+-------------------------------------------
+remove top line on menu
+.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce) { box-shadow: none}
+
+---------------------------------
+slider automatic
+[slider no_container="true" slider animation="slide" slide_time="3000" slide_speed="600" slideshow="true" random="false" control_nav="false" prev_next_nav="false"] [slide]<a href="murraysharma.co.nz" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="/wp-content/uploads/2017/08/MURRAY-SHARMA-ASSOCIATES-LIMITED.jpg" alt="MURRAY SHARMA ASSOCIATES LIMITED" width="200" height="900" /></a>[/slide] [slide]<a href="http://www.lochores.co.nz/" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="/wp-content/uploads/2017/03/Bi-Lochores-Real-Estate-Tower-oo.jpg" alt="LOCHORES" width="200" height="900" /></a>[/slide][/slider]
+
+
+---------------------
+content band
+[content_band style="color: #fff;" bg_image="http://papakurarsa.kiwi.fatweb.co.nz/wp-content/uploads/2017/08/HOME1.jpg" parallax="true" border="all" inner_container="true"] [custom_headline style="margin-top: 0; color: #fff;" level="h4" looks_like="h3"]Cool Headline[/custom_headline] <p>Esurivi enim et dedistis mihi manducare: sitivi, et dedistis mihi bibere hospes eram et collexistis me nudus et operuistis me, adipiscing ego me: infirmus, et vidi post me, visitastis me in carcere eram et venistis ad me.</p> [/content_band]
+
+-------------------------------
+SET UP FACEBOOK IN THE FOOTER 
+COPY THE FACEBOOK ID : http://prntscr.com/g8yi31
+
+----------------------------------
+WIDGETS IN FOOTER
+ADDRESS
+
+Address: 9 Raukawa Street, Ōtaki
+Postal: PO Box 84,	Ōtaki 5512
+Phone: 06 364 6221
+Fax: 06 364 6223
+E-Mail: otakirsa@xtra.co.nz
+
+<ul>
+<li><i class="fa fa-map-marker" aria-hidden="true"></i> Address:</li>
+<li>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</li>
+<br>
+<li><i class="fa fa-envelope" aria-hidden="true"></i> Postal Address:</li>
+<li>Kerikeri RSA Inc,</li>
+<li>PO Box 776,</li>
+<li>Kerikeri 00245</li>
+<br>
+<li><i class="fa fa-envelope" aria-hidden="true"></i> Email: <a href="mailto:info@kerikerirsa.co.nz">info@kerikerirsa.co.nz</a></li>
+<li><i class="fa fa-phone" aria-hidden="true"></i> Telephone: (09) 407 8585</li>
+
+</ul>
+
+------------------
+WIDGETS FOOTER
+<ul>
+<li><i class="fa fa-map-marker" aria-hidden="true"></i> Address:</li>
+<li>xxxx<br>xxxxx</li>
+<br>
+<li><i class="fa fa-envelope" aria-hidden="true"></i> Postal Address:</li>
+<li>xxxx</li>
+<li>xxxxx</li>
+<br>
+<li><i class="fa fa-envelope" aria-hidden="true"></i> Email:  xxxxxxx</li>
+<li><i class="fa fa-phone" aria-hidden="true"></i> Telephone: +64 9-812 8138</li>
+<li><i class="fa fa-fax" aria-hidden="true"></i> Fax: (xxxxx</li>
+</ul>
+
+
+
+-------------
+HEADER ON TOP BAR WITH CONTACT AND FB
+
+go to functions.php to edit 
+
+//HEADER PHONE - SOCIAL
+
+add_action('x_after_view_global__brand', function(){ ?>
+
+<div class="head-navbar-content right" style="margin:0">
+<h3 style="margin:0"><i class="fa fa-phone-square" aria-hidden="true" style="display:inline; font-size:inherit"></i>  <span style="color: #000; font-size: 18px; font-weight: bold "><a href="tel:+64000000000">(06) 364 6221</a>  <span style="padding: 0 20px; "> | </span> </span> <a style="display:inline; font-size:inherit" href="https://www.facebook.com/Otaki-RSA-121479764643229" target="_blank"><i class="fa fa-facebook-square" style="font-size:inherit; display:inline"></i></a></h3> 
+</div>
+
+<div style="clear:right"></div>
+
+--------------------------------
+<strong>OPENING HOURS</strong><br>
+The Club is open 7 days per week for your enjoyment. Children are welcome but must be accompanied by a parent or guardian.
+The Club requires a clean and tidy standard of dress at all times.
+
+<table style="width:100%;font-size: 10px">
+  <tr>
+  	<td>Sun , Mon</td>
+    <td>4:00pm - 7:30 pm</td> 
+  </tr>
+  <tr>
+  	<td>Tue - Sat </td>
+    <td>12:00 noon - late</td> 
+  </tr>
+  	
+</table>
+
+---------------------
+
+
+[image class="gallery01" src="/wp-content/uploads/2017/08/G1.jpg" link="true"]
+
+<div class="visually-hidden">
+<div id="gallery01">
+
+[image class="gallery01" src="/wp-content/uploads/2017/08/G2.jpg" link="true"]
+[image class="gallery01" src="/wp-content/uploads/2017/08/G3.jpg" link="true"]
+[image class="gallery01" src="/wp-content/uploads/2017/08/G4.jpg" link="true"]
+[image class="gallery01" src="/wp-content/uploads/2017/08/G5.jpg" link="true"]
+[image class="gallery01" src="/wp-content/uploads/2017/08/G6.jpg" link="true"]
+[image class="gallery01" src="/wp-content/uploads/2017/08/G7.jpg" link="true"]
+[image class="gallery01" src="/wp-content/uploads/2017/08/G8.jpg" link="true"]
+[image class="gallery01" src="/wp-content/uploads/2017/08/G9.jpg" link="true"]
+[image class="gallery01" src="/wp-content/uploads/2017/08/G10.jpg" link="true"]
+[lightbox selector=".gallery01" thumbnails="true"]
+
+</div>
+</div>
+
+
+-------------------
+WHEN LOGOS DNT HAVE A LINK, REDIRECT TO ITS SECTION
+ADD ID
+jayar
+THEN URL to Logos section
+
+http://www.turangirsa.co.nz/key-partners#jayar
+
+----------------------------------
+add these custom css to rsa sites
+
+.fa { font-size: 20px !important; padding-right: 2px;}
+
+.textwidget .fa { font-size: 15px !important; padding-right: 2px;}
+
+.textwidget{
+  text-shadow:none;
+}
+.h-widget, .textwidget h6 {text-shadow: none; color: #fff;  }
+#cff.cff-default-styles a {
+    text-decoration: none;
+    text-shadow: none;
+  color:white;
+}
+#cff .cff-author .cff-date {
+    color: white;
+}
+
+
+
+----------------------
+LINK OFF THE LOGO WHO DNT HAVE EXTERNAL LINKS
+
+ALSO ADD THIS CSS
+ margin-left: 50px;
+
+---------------------------------
+<a href="mailto:otakirsa@xtra.co.nz">otakirsa@xtra.co.nz</a>  
+
+
+
+<li><i class="fa fa-envelope" aria-hidden="true"></i> Email: <a href="mailto:otakirsa@xtra.co.nz">otakirsa@xtra.co.nz</a></li>
+
+----------------------
+add col width
+<strong> OPENING HOURS </strong>
+<table style="width: 100%;">
+<col width="60%">
+<col width="40%">
+<tbody>
+<tr>
+<td>Mon/Tue</td>
+<td>9am-4.30pm</td>
+</tr>
+<tr>
+<td>Wed-Fri</td>
+<td>9am-5pm</td>
+</tr>
+<tr>
+<td>Sat/Sun</td>
+<td>Closed</td>
+</tr>
+</tbody>
+</table>
+----------------------------------
+MAKE IMAGES CLICKABLE
+
+[image class="wired" src="/wp-content/uploads/2017/08/Wired4Tunez.jpg" link="true"]
+
+<div class="visually-hidden">
+<div id="wired">
+[lightbox selector=".wired" thumbnails="true"]
+
+</div>
+</div>
+
+----------------
+[image src="/wp-content/uploads/2017/07/July-Entertainment-Monthly-opt.jpg" link="true"]
+[lightbox]
+
+
+[image class="fathers" src="/wp-content/uploads/2017/08/Fathers-Day-Menu-Sept-2017.jpg" link="true"]
+
+<div class="visually-hidden">
+<div id="fathers">
+[lightbox selector=".fathers" thumbnails="true"]
+
+</div>
+</div>
+
+--------------------------
+[image class="fathers" src="/wp-content/uploads/2017/08/Fathers-Day-Menu-Sept-2017.jpg" link="true"]
+
+<div class="visually-hidden">
+<div id="fathers">
+[lightbox selector=".fathers" thumbnails="true"]
+
+</div>
+</div>
+
+[image class="gala" src="/wp-content/uploads/2017/07/Black-Tie-Gala-RNZNA-Sept-2017-opt.jpg" link="true"]
+
+<div class="visually-hidden">
+<div id="gala">
+[lightbox selector=".gala" thumbnails="true"]
+
+</div>
+</div>
+
+[image class="veterans" src="/wp-content/uploads/2017/07/veterans.jpg" link="true"]
+
+<div class="visually-hidden">
+<div id="veterans">
+[lightbox selector=".veterans" thumbnails="true"]
+
+</div>
+</div>
+------------------------
+
+[image class="member" src="/wp-content/uploads/2017/09/MembershipDraw.jpg" link="true"]
+
+<div class="visually-hidden">
+<div id="member">
+[lightbox selector=".member" thumbnails="true"]
+
+</div>
+</div>
+
+-----
+
+[image class="bull" src="/wp-content/uploads/2017/07/Mechanical-Bull-Competition-Rules-opt.jpg" link="true"]
+
+<div class="visually-hidden">
+<div id="bull">
+[lightbox selector=".bull" thumbnails="true"]
+
+</div>
+</div>
+
+<p style="font-size: 20px; text-align: center; font-weight: bold; margin-top: -35px;"><a href="/wp-content/uploads/2017/07/Mechanical-Bull-Entry-form.pdf" target="_blank">Mechanical Bull Entry Form</a></p>
+
+
+
+http://www.foxtonrsa.co.nz/wp-content/uploads/2017/08/restaurant-pictures-11.jpg
+------------------------------------------------------------------------------
+
+CUSTOM CSS
+
+
+.x-logobar-inner {
+  position:fixed;
+  width:100%;
+  background:#fff;
+}
+.x-navbar {
+  top:112px
+}
+.admin-bar .x-navbar-fixed-top, .admin-bar .x-navbar-fixed-left, .admin-bar .x-navbar-fixed-right{
+  top:142px;
+}
+
+.masthead-stacked .x-brand {
+  float:left;
+  width:20%;
+  text-align:left;
+}
+.head-navbar-content {
+  float:left;
+  width:80%
+}
+
+@media (max-width:768px) {
+  .masthead-stacked .x-brand {
+    margin-bottom:10px;
+  }
+  .masthead-stacked .x-brand,
+  .head-navbar-content {
+    float:none;
+    width:100%;
+    text-align:center !important;
+  }
+  .x-logobar-inner {
+    position:relative
+  }
+  .x-navbar {
+    top:inherit
+  }
+}
+
+
+// Theme Functions php file child theme
+
+
+// Additional Functions
+// =============================================================================
+
+add_action('x_after_view_global__brand', function(){ ?>
+
+<div class="head-navbar-content" style="margin:0">
+<div class="x-column x-sm x-4-5" style="width:82.5%; margin-right:0.5%"><a target="_blank" href="http://myjobspace.co.nz/"><img src="http://otaki.kiwi.fatweb.co.nz/wp-content/uploads/2017/09/MJS_Banner.jpg"></a></div>
+<div class="x-column x-sm x-1-5 last"><h3 style="margin:0"><i class="fa fa-phone-square" aria-hidden="true" style="display:inline; font-size:inherit"></i>  <span style="color: #000; font-size: 18px; font-weight: bold ">03-349 4701<span style="padding: 0 10px; display:none "> | </span> </span> <a style="display:inline; font-size:inherit" href="https://www.facebook.com/groups/555643094458381/" target="_blank"><i class="fa fa-facebook-square" style="font-size:1em !important; display:inline;"></i></a></h3> </div>
+</div>
+
+<div style="clear:right"></div>
+<?php });
+
+----------------------------------------------------------------------------------------------
+http://rsatemplate.lima.fatweb.co.nz/wp-content/uploads/2017/09/MJS_Banner.jpg
+
+add_action('x_after_view_global__brand', function(){ ?>
+
+<div class="head-navbar-content right" style="margin:0">
+<h3 style="margin:0"><i class="fa fa-phone-square" aria-hidden="true" style="display:inline; font-size:inherit"></i>  <span style="color: #000; font-size: 18px; font-weight: bold "><a href="tel:+64000000000">000 000 0000</a>  <span style="padding: 0 20px; "> | </span> </span> <a style="display:inline; font-size:inherit" href="#" target="_blank"><i class="fa fa-facebook-square" style="font-size:inherit; display:inline"></i></a></h3> 
+</div>
+
+<div style="clear:right"></div>
+<?php });
+
+-----------------------------
+MAKE ICONS SMALL - TELEPHONE 
+
+
+.fa {
+    font-size: 20px !important;
+    padding-right: 2px;
+}
+---------------------------------
+FOXTON RSA
+add_action('x_after_view_global__brand', function(){ ?>
+
+<div class="head-navbar-content right" style="margin:0">
+<h3 style="margin:0"><i class="fa fa-phone-square" aria-hidden="true" style="display:inline; font-size:inherit"></i>  <span style="color: #000; font-size: 18px; font-weight: bold "><a href="tel:+64000000000"> (06) 363 7670</a>  <span style="padding: 0 18px; "> | </span> </span> <a style="display:inline; font-size:inherit" href="https://www.facebook.com/FoxtonRSA" target="_blank"><i class="fa fa-facebook-square" style="font-size:inherit; display:inline"></i></a></h3> 
+</div>
+
+<div style="clear:right"></div>
+<?php });
+----------------------------
+CUSTOM CSS WITH STICKY HEADER
+/*HEADER CSS*/
+
+
+.x-logobar-inner {
+  position:relative;
+  width:100%;
+  background:#fff;
+}
+/*.x-navbar {
+  top:112px
+    
+}*/
+.x-navbar{
+  position:sticky;
+}
+.admin-bar .x-navbar-fixed-top, .admin-bar .x-navbar-fixed-left, .admin-bar .x-navbar-fixed-right{
+  top:142px;
+}
+
+.masthead-stacked .x-brand {
+  float:left;
+  width:20%;
+  text-align:left;
+}
+.head-navbar-content {
+  float:left;
+  width:80%
+}
+
+@media (max-width:768px) {
+  .masthead-stacked .x-brand {
+    margin-bottom:10px;
+  }
+  .masthead-stacked .x-brand,
+  .head-navbar-content {
+    float:none;
+    width:100%;
+    text-align:center !important;
+  }
+  .x-logobar-inner {
+    position:relative
+  }
+  .x-navbar {
+    top:inherit
+  }
+}
+
+.fa {
+    font-size: 20px !important;
+    padding-right: 2px;
+}
+
+
+-------------
+STANDARD HEADER
+add_action('x_after_view_global__brand', function(){ ?>
+
+<div class="head-navbar-content right" style="margin:0">
+<h3 style="margin:0"><i class="fa fa-phone-square" aria-hidden="true" style="display:inline; font-size:inherit"></i>  <span style="color: #ed1c24; font-size: 18px; font-weight: bold ">(09) 407 8585<span style="padding: 0 20px; "> | </span> </span> <a style="display:inline; font-size:inherit" href="https://www.facebook.com/Kerikeri-RSA-Inc-1222392067834564/" target="_blank"><i class="fa fa-facebook-square" style="font-size:inherit; display:inline"></i></a></h3> 
+</div>
+
+<div style="clear:right"></div>
+<?php });
+
+---
+KERI HEADER
+
+
+add_action('x_after_view_global__brand', function(){ ?>
+
+<div class="head-navbar-content" style="margin:0">
+<div class="x-column x-sm x-4-5" style="width:82.5%; margin-right:0.5%"><a target="_blank" href="http://myjobspace.co.nz/"><img src="http://kerikerirsa.kiwi.fatweb.co.nz/wp-content/uploads/2017/09/dummy.jpg"></a></div>
+<div class="x-column x-sm x-1-5 last"><h3 style="margin:0"><i class="fa fa-phone-square" aria-hidden="true" style="display:inline; font-size:inherit"></i>  <span style="color: #000; font-size: 18px; font-weight: bold ">(09) 407 8585 <span style="padding: 0 10px; display:none "> | </span> </span> <a style="display:inline; font-size:inherit" href="https://www.facebook.com/Kerikeri-RSA-Inc-1222392067834564/" target="_blank"><i class="fa fa-facebook-square" style="font-size:1em !important; display:inline;"></i></a></h3> </div>
+</div>
+
+<div style="clear:right"></div>
+<?php });
+
+------------
+add_action('x_after_view_global__brand', function(){ ?>
+
+<div class="head-navbar-content right" style="margin:0">
+<h3 style="margin:0"><i class="fa fa-phone-square" aria-hidden="true" style="display:inline; font-size:inherit"></i>  <span style="color: #ed1c24; font-size: 18px; font-weight: bold ">(09) 407 8585<span style="padding: 0 20px; "> | </span> </span> <a style="display:inline; font-size:inherit" href="https://www.facebook.com/Kerikeri-RSA-Inc-1222392067834564/" target="_blank"><i class="fa fa-facebook-square" style="font-size:inherit; display:inline"></i></a></h3> 
+</div>
+
+<div style="clear:right"></div>
+<?php });
+
+CSS FOR KERIKERI
+
+COMMENTED ON CUSTOM CSS
+
+-----------------------------------------
+Kerikeri RSA Inc, PO Box 776, Kerikeri 00245
